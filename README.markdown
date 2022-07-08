@@ -5,8 +5,7 @@ Find documentation and support on Yahoo! Developer Network: http://developer.yah
 
  * Yahoo! Application Platform - http://developer.yahoo.com/yap/
  * Yahoo! Social APIs - http://developer.yahoo.com/social/
- * Yahoo! Query Language - http://developer.yahoo.com/yql/
-
+ * Yahoo! Query Language
 Hosted on GitHub: http://github.com/yahoo/yos-social-python/tree/master
 
 License
